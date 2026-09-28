@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/craftxml",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Craft structured JSON xml payloads without a heavyweight toolkit.",
+  "bin": {
+    "craftxml": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/craftxml.git"
+  },
+  "homepage": "https://theworker02.github.io/craftxml/",
+  "keywords": [
+    "craft",
+    "xml",
+    "json",
+    "cli",
+    "toolkit"
+  ]
+}
